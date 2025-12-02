@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm M S ANAND</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Earth Design System](https://earth.anywhere.co)
-
-- 🌱 I’m currently learning **TypeScript and NextJs**
+- 🌱 I’m currently learning **MongoDB and NodeJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
 
