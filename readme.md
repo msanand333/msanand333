@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://msanand.work](https://msanand.work)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/10g_CO6zbl9errEoC-8s6LG_dS46ua29I/view?usp=sharing](https://drive.google.com/file/d/10g_CO6zbl9errEoC-8s6LG_dS46ua29I/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1eGFm_-_zvR5odpXn459yu8qiDtIe8RLs/view?usp=drive_link](https://drive.google.com/file/d/1eGFm_-_zvR5odpXn459yu8qiDtIe8RLs/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
